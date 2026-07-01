@@ -270,5 +270,3 @@ Potential extensions include:
 # 👤 Author
 
 **Yagnit Mahajan**
-
-If you found this project interesting, feel free to connect or provide feedback.
